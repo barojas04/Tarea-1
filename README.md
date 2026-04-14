@@ -24,9 +24,9 @@ Este proyecto consiste en recrear la sección principal de un sitio web real uti
 - footer
 
 ## Capturas
-**Original**
+## **Original**
 ![Original](original.png)
-**Pagina creada clon**
+## **Pagina creada clon**
 ![Clon 1](clon1.png)
 ![Clon 2](clon2.png)
 ![Clon 3](clon3.png)
