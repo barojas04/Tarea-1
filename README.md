@@ -21,7 +21,7 @@ Este proyecto consiste en recrear la sección principal de un sitio web real uti
 - article
 - aside
 - footer
-- footer
+
 
 ## Capturas
 ## **Original**
