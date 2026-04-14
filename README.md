@@ -1,6 +1,7 @@
 # Tarea 1 - Clon Web
 
-**Nombre del estudiante:** Bryan Rojas  
+**Nombre del estudiante:** Bryan Rojas 
+**Carne:** C16913
 **Curso:** Multimedios 
 
 
@@ -23,6 +24,7 @@ Este proyecto consiste en recrear la sección principal de un sitio web real uti
 - footer
 
 ## Capturas
+![Original](original.png)
 ![Clon 1](clon1.png)
 ![Clon 2](clon2.png)
 ![Clon 3](clon3.png)
