@@ -27,5 +27,5 @@ Este proyecto consiste en recrear la sección principal de un sitio web real uti
 ## **Original**
 ![Original](original.png)
 ### Resultado final
-![Clon 1](resultado.png)
+![Clon 1](Resultado.png)
 
